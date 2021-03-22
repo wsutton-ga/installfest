@@ -24,6 +24,5 @@ troubleshooting.
 | [Command Line Tools - Xcode (macOS only)](command_line_tools.md) | Install Xcode                                                                  |
 | [Homebrew](homebrew.md)                                          | Install Homebrew package manager                                               |
 | [Node](node.md)                                                  | Install nvm, Node, and global npm packages                                     |
-| [Python](python.md)                                              | Install rbenv and Python                                                       |
 | [Chrome](chrome.md)                                              | Install Chrome and configure settings                                          |
 | [VS Code](vscode.md)                                             | Install VS Code/extensions and configure settings                              |
