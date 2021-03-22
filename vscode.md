@@ -60,9 +60,12 @@ VS Code has numerous extensions that make developers' lives easier! We will be i
 "ritwickdey.liveserver",
 "dbaeumer.vscode-eslint",
 "esbenp.prettier-vscode",
+```
+
+### Recommended but no required
+```
 "coenraads.bracket-pair-colorizer",
 "christian-kohler.path-intellisense",
-"ms-python.python"
 ```
 
 > Quit your instance of VS Code and reopen for the newly-installed extensions to take effect!
