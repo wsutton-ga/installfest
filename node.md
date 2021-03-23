@@ -39,12 +39,4 @@ which npm
 ```
 Each of these is a separate command, they should each print something out on the line below. 
 
-### NPM Packages
-Now, we will use Node's associated package manager, `npm`, to download and install some Node
-modules and make them available across all of our projects.
-
-```bash
-scripts/npm.sh
-```
-
 [Continue With Installfest](python.md)
